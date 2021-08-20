@@ -111,8 +111,7 @@ public class UserController {
 	        //Establishing a session with required user details
 	        Session session = Session.getInstance(props, new javax.mail.Authenticator() {
 	            protected PasswordAuthentication getPasswordAuthentication() {
-	                return new PasswordAuthentication("alluhit45@gmail.com", "kranthi961796");
-//	                return new PasswordAuthentication("hit45.vijju@gmail.com", "ks961796");
+	                return new PasswordAuthentication("alluXXXXX@gmail.com", "kra@XXXX");
 	                
 	            }
 	        });
